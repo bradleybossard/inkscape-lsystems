@@ -3,7 +3,7 @@
 ### Penrose tiling
 
 
-![Penrose Tiling]((https://raw.github.com/bradleybossard/inkscape-lsystems/svg/penrose.svg)
+![Penrose Tiling](https://raw.github.com/bradleybossard/inkscape-lsystems/svg/penrose.svg)
 
 ##### Axiom
 
