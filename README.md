@@ -3,7 +3,7 @@
 ### Penrose tiling
 
 
-![Penrose Tiling](svg/penrose.svg)
+![Penrose Tiling](./svg/penrose.svg)
 
 ##### Axiom
 
